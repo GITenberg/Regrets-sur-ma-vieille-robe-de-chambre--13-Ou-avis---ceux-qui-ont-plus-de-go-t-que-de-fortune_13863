@@ -1,0 +1,32 @@
+_repo: Regrets-sur-ma-vieille-robe-de-chambre--13-Ou-avis---ceux-qui-ont-plus-de-go-t-que-de-fortune_13863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diderot, Denis
+    alias: Diderot, Pantophile
+    birthdate: 1713
+    deathdate: 1784
+    gutenberg_agent_id: '2071'
+    url: http://www.gutenberg.org/2009/agents/2071
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Denis_Diderot
+    - http://en.wikipedia.org/wiki/Denis_Diderot
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13863'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcc 'PQ'
+title: "Regrets sur ma vieille robe de chambre\r\nOu, avis à ceux qui ont plus de\
+  \ goût que de fortune"
+url: http://www.gutenberg.org/ebooks/13863
